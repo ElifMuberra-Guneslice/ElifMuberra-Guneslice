@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**ElifMuberra-Guneslice/ElifMuberra-Guneslice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I’m **Elif Müberra Güneşlice**,  
+Software Engineer specialized in **iOS & Android Development**, exploring **Machine Learning** and intelligent mobile systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+![Elif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElifMuberra-Guneslice&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+### 💡 Tech Focus
+
+**Core Skills**  
+- Swift • SwiftUI • Kotlin • Jetpack Compose  
+- Python • NumPy • Pandas • scikit-learn  
+- Firebase • REST API • MapKit • AVFoundation
+
+- ### 🛠️ Top Languages
+
+| Language | Usage |
+|----------|-------|
+| Swift    | ████████████████ 25% |
+| Kotlin   | ████████████████ 35% |
+| SwiftUI  | ████ 15% |
+| Python   | ████ 15% |
+| SQL      | ██ 5% |
+| VS/C#    | ██ 5% |
+
+
+**Learning**  
+- On-device ML optimization  
+- Cloud model deployment  
+- Audio-based emotion recognition  
+
+---
+
+<p align="center">🚀 All stats below are updated daily via GitHub Actions.</p>
